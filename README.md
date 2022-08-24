@@ -1,1 +1,1 @@
-Live Site - https://searchmealreactwebsite.netlify.app/
+Live Site - https://search-meal-react-website.netlify.app/
